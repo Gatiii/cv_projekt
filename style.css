@@ -203,4 +203,8 @@ i {
         display: block;
         text-align: center;
     }
+
+    .block__skills-text {
+        width: 60%;
+    }
 }
