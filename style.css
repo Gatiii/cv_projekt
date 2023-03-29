@@ -198,4 +198,9 @@ i {
     .main__block {
         width: 100%;
     }
+
+    .section__second-article {
+        display: block;
+        text-align: center;
+    }
 }
